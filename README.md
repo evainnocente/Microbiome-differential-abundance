@@ -27,19 +27,26 @@ I calculated differential abundance of microbial species between samples with AN
 
 ## Results
 
+The reads were of high quality according to FastQC, with a dropoff in read quality in the second read of each sample, as is expected (Tan et al., 2019). I trimmed sequences with Phred score < 20, and the resulting sequences were all of high quality. 
+
+Relative abundance of the top twenty most abundant taxa between samples can be seen in Figure 1. Two of the four omnivores have Faecalibacterium prausnitzii as the most abundant species and three of four vegans (and one omnivore) have S. copri as the most abundant species.
+	
 <img width="1432" height="1467" alt="rel_abundance_plot" src="https://github.com/user-attachments/assets/2c9e17ef-9e0a-4976-a541-38630591b572" />
 
-
-
-
+Per sample alpha diversity is shown in Figure 2. The Chao1 index, Shannon index, and Berger-Parker index were calculated for each sample. No group of samples was consistently higher in diversity across all three measures.
 
 <img width="1432" height="1467" alt="alpha_diversity_plot" src="https://github.com/user-attachments/assets/72d76c81-9bd5-43f4-a304-df6db191befd" />
 
 <img width="1432" height="1467" alt="braycurtis_plot" src="https://github.com/user-attachments/assets/c6974367-78ae-4f5d-ad8b-65a3705d7da0" />
 
+Measures of beta diversity are shown in Figures 3 and 4. Principal coordinate analysis plots of Bray-Curtis and Jaccard distance show that there is some clustering of samples by diet.
+
 <img width="1432" height="1467" alt="jaccard_plot" src="https://github.com/user-attachments/assets/0843c9e9-5745-4b85-b93f-9c3dee485ed3" />
 
+There were no taxa that were significantly differentially abundant between samples. Log-fold change of the top twenty taxa with the largest absolute log-fold change is shown in Figure 5.
+	
 <img width="1432" height="1467" alt="logfoldplot" src="https://github.com/user-attachments/assets/0fd743f6-a2f8-436c-b2b8-e3845123e3cc" />
 
 
 ## Discussion
+

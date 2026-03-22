@@ -87,6 +87,8 @@ David, L. A., Maurice, C. F., Carmody, R. N., Gootenberg, D. B., Button, J. E., 
 
 Dabdoub, S.M. (2016). kraken-biom: Enabling interoperative format conversion for Kraken results (Version 1.2) [Software]. Available at https://github.com/smdabdoub/kraken-biom.
 
+De Filippis, F., Pasolli, E., Tett, A., Tarallo, S., Naccarati, A., De Angelis, M., Neviani, E., Cocolin, L., Gobbetti, M., Segata, N., & Ercolini, D. (2019). Distinct genetic and functional traits of human intestinal prevotella copri strains are associated with different habitual diets. Cell Host & Microbe, 25(3), 444-453.e3. https://doi.org/10.1016/j.chom.2019.01.004
+
 De Filippo, C., Cavalieri, D., Di Paola, M., Ramazzotti, M., Poullet, J. B., Massart, S., Collini, S., Pieraccini, G., & Lionetti, P. (2010). Impact of diet in shaping gut microbiota revealed by a comparative study in children from Europe and rural Africa. Proceedings of the National Academy of Sciences of the United States of America, 107(33), 14691–14696. https://doi.org/10.1073/pnas.1005963107
 
 Dos Santos, S. J., & Gloor, G. B. (2026). Incorporating scale uncertainty into differential expression analyses using aldex2. Current Protocols, 6(2), e70307. https://doi.org/10.1002/cpz1.70307

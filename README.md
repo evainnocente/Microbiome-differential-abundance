@@ -94,8 +94,6 @@ De Filippis, F., Pasolli, E., Tett, A., Tarallo, S., Naccarati, A., De Angelis, 
 
 De Filippo, C., Cavalieri, D., Di Paola, M., Ramazzotti, M., Poullet, J. B., Massart, S., Collini, S., Pieraccini, G., & Lionetti, P. (2010). Impact of diet in shaping gut microbiota revealed by a comparative study in children from Europe and rural Africa. Proceedings of the National Academy of Sciences of the United States of America, 107(33), 14691–14696. https://doi.org/10.1073/pnas.1005963107
 
-Dos Santos, S. J., & Gloor, G. B. (2026). Incorporating scale uncertainty into differential expression analyses using aldex2. Current Protocols, 6(2), e70307. https://doi.org/10.1002/cpz1.70307
-
 Fehlner-Peach, H., Magnabosco, C., Raghavan, V., Scher, J. U., Tett, A., Cox, L. M., Gottsegen, C., Watters, A., Wiltshire-Gordon, J. D., Segata, N., Bonneau, R., & Littman, D. R. (2019). Distinct polysaccharide utilization profiles of human intestinal Prevotella copri isolates. Cell Host & Microbe, 26(5), 680-690.e5. https://doi.org/10.1016/j.chom.2019.10.013
 
 Fernandes, A. D., Macklaim, J. M., Linn, T. G., Reid, G., & Gloor, G. B. (2013). Anova-like differential expression (Aldex) analysis for mixed population rna-seq. PLOS ONE, 8(7), e67019. https://doi.org/10.1371/journal.pone.0067019
@@ -135,8 +133,6 @@ Robinson, M. D., McCarthy, D. J., & Smyth, G. K. (2010). Edger: A bioconductor p
 Scher, J. U., Sczesnak, A., Longman, R. S., Segata, N., Ubeda, C., Bielski, C., Rostron, T., Cerundolo, V., Pamer, E. G., Abramson, S. B., Huttenhower, C., & Littman, D. R. (2013). Expansion of intestinal Prevotella copri correlates with enhanced susceptibility to arthritis. eLife, 2, e01202. https://doi.org/10.7554/eLife.01202
 
 Tan, G., Opitz, L., Schlapbach, R., & Rehrauer, H. (2019). Long fragments achieve lower base quality in Illumina paired-end sequencing. Scientific Reports, 9, 2856. https://doi.org/10.1038/s41598-019-39076-7
-
-Truong, D. T., Franzosa, E. A., Tickle, T. L., Scholz, M., Weingart, G., Pasolli, E., Tett, A., Huttenhower, C., & Segata, N. (2015). MetaPhlAn2 for enhanced metagenomic taxonomic profiling. Nature Methods, 12(10), 902–903. https://doi.org/10.1038/nmeth.3589
 
 Wang, W.-L., Xu, S.-Y., Ren, Z.-G., Tao, L., Jiang, J.-W., & Zheng, S.-S. (2015). Application of metagenomics in the human gut microbiome. World Journal of Gastroenterology : WJG, 21(3), 803–814. https://doi.org/10.3748/wjg.v21.i3.803
 

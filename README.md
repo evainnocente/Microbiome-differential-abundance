@@ -1,7 +1,7 @@
 # Human Gut Microbiome Differential Abundance
-# BINF 6110 Assignment 3
-# Eva Burguete-Innocente
-# March 22nd, 2026
+#### BINF 6110 Assignment 3
+#### Eva Burguete-Innocente
+#### March 22nd, 2026
 
 ## Introduction
 

@@ -110,6 +110,7 @@ Liu, Y., Ghaffari, M. H., Ma, T., & Tu, Y. (2024). Impact of database choice and
 Lu, J., Breitwieser, F. P., Thielen, P., & Salzberg, S. L. (2017). Bracken: Estimating species abundance in metagenomics data. PeerJ. Computer Science, 3, e104. https://doi.org/10.7717/peerj-cs.104
 
 Martin, M. (2011). Cutadapt removes adapter sequences from high-throughput sequencing reads. EMBnet.Journal, 17(1), 10. https://doi.org/10.14806/ej.17.1.200
+
 McBurney, M. I., Davis, C., Fraser, C. M., Schneeman, B. O., Huttenhower, C., Verbeke, K., Walter, J., & Latulippe, M. E. (2019). Establishing what constitutes a healthy human gut microbiome: State of the science, regulatory considerations, and future directions. The Journal of Nutrition, 149(11), 1882–1895. https://doi.org/10.1093/jn/nxz154
 
 McMurdie, P., & Paulson, J. (2026). biomformat: An interface package for the BIOM file format (R package version 1.38.3). https://doi.org/10.18129/B9.bioc.biomformat

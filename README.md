@@ -65,7 +65,6 @@ Measures of alpha diversity were not significantly different in omnivores compar
 
 The small sample size may also account for the lack of significant differences in abundance of species between omnivores and vegans. No taxa were significantly differentially abundant between diets. However, I will briefly discuss the taxon that had the largest log-fold change, although caution should be taken in interpreting these results as they were not statistically significant. I found that _Bacteroides eggerthii_ exhibited a negative log-fold change in vegans compared to omnivores, indicating that the abundance of this species was lower in vegans compared to omnivores (Fig. 5). David et al. (2014) found that abundance of the Bacteroides genus was higher in study subjects that adhered to an animal-based diet, and Wu et al. (2011) found that a protein and animal-fat rich diet was associated with the Bacteroides enterotype. Given the literature support for this association, further investigation with a larger sample size could be informative. Overall, the results reflect the strong impact of diet on the gut microbiome and highlight the need for increased sample size to potentially uncover significant associations of taxa to diet. 
 
-## Supplemental Data
 
 ## References
 

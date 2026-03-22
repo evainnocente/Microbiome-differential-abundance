@@ -138,9 +138,9 @@ braycurtis <- plot_ordination(physeq_labelled, ord.pcoa.bray, color = "diet") +
 ggsave("../figures/braycurtis_plot.png", braycurtis)
 
 # NMDS with Bray-Curtis and plotting
-ord.nmds.bray <- ordinate(physeq_labelled, method="NMDS", distance="bray")
+#ord.nmds.bray <- ordinate(physeq_labelled, method="NMDS", distance="bray")
 
-plot_ordination(physeq_labelled, ord.nmds.bray, color="diet") + geom_point(aes(color = diet), size = 4, inherit.aes = TRUE) + labs(color="Diet")
+#plot_ordination(physeq_labelled, ord.nmds.bray, color="diet") + geom_point(aes(color = diet), size = 4, inherit.aes = TRUE) + labs(color="Diet")
 
 # PcOA with Jaccard distance and plotting
 ord.pcoa.jaccard <- ordinate(physeq_labelled, method="PCoA", distance="jaccard")
@@ -152,6 +152,8 @@ ggsave("../figures/jaccard_plot.png", jaccard)
 ## Permanova, not significant
 
 adonis2(phyloseq::distance(physeq_labelled, method = "bray") ~ diet, data = metadata)
+
+adonis2(phyloseq::distance(physeq_labelled, method = "jaccard") ~ diet, data = metadata)
 
 ## Differential abundance analysis
 

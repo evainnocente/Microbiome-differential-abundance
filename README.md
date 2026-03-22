@@ -97,8 +97,6 @@ De Filippo, C., Cavalieri, D., Di Paola, M., Ramazzotti, M., Poullet, J. B., Mas
 
 Dos Santos, S. J., & Gloor, G. B. (2026). Incorporating scale uncertainty into differential expression analyses using aldex2. Current Protocols, 6(2), e70307. https://doi.org/10.1002/cpz1.70307
 
-Falony, G., Joossens, M., Vieira-Silva, S., Wang, J., Darzi, Y., Faust, K., Kurilshikov, A., Bonder, M. J., Valles-Colomer, M., Vandeputte, D., Tito, R. Y., Chaffron, S., Rymenans, L., Verspecht, C., De Sutter, L., Lima-Mendez, G., D’hoe, K., Jonckheere, K., Homola, D., … Raes, J. (2016). Population-level analysis of gut microbiome variation. Science, 352(6285), 560–564. https://doi.org/10.1126/science.aad3503
-
 Fehlner-Peach, H., Magnabosco, C., Raghavan, V., Scher, J. U., Tett, A., Cox, L. M., Gottsegen, C., Watters, A., Wiltshire-Gordon, J. D., Segata, N., Bonneau, R., & Littman, D. R. (2019). Distinct polysaccharide utilization profiles of human intestinal Prevotella copri isolates. Cell Host & Microbe, 26(5), 680-690.e5. https://doi.org/10.1016/j.chom.2019.10.013
 
 Fernandes, A. D., Macklaim, J. M., Linn, T. G., Reid, G., & Gloor, G. B. (2013). Anova-like differential expression (Aldex) analysis for mixed population rna-seq. PLOS ONE, 8(7), e67019. https://doi.org/10.1371/journal.pone.0067019

@@ -110,6 +110,11 @@ alpha_diversity_indices <- merge(alpha_diversity_indices, metadata, by.x = "Row.
   
 write.csv(alpha_diversity_indices, file = "../data/alpha_diversity_indices.csv", row.names = T)
 
+# T-test to see whether there is a significant difference between groups
+t.test(Chao1 ~ diet, data = alpha_diversity_indices) # Not significant
+t.test(Shannon ~ diet, data = alpha_diversity_indices) 
+t.test(dbp ~ diet, data = alpha_diversity_indices) 
+
 # Plotting
 
 chao1 <- ggplot(alpha_diversity_indices, aes(x=Row.names, y=Chao1, colour = diet)) + geom_point() + theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust=1, size=6), legend.position = "none")+ scale_x_discrete(labels = c("SRR8146935", "SRR8146936", "SRR8146938", "SRR8146956", "SRR8146944", "SRR8146951", "SRR8146952", "SRR8146954")) + labs(x = "")

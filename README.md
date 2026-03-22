@@ -26,7 +26,7 @@ I used the core_nt database from NCBI (download link: https://benlangmead.github
 
 Once the data was loaded into R with the biomformat package v1.38.3 (McMurdie & Paulson, 2026), I calculated and visualised relative abundance and species rarefaction curves with the R packages phyloseq v1.54.2 and vegan v2.7-3 (McMurdie & Holmes, 2013; Oksanen et al., 2026). I calculated the Chao1 (Chao, 1984), Shannon (Lemos et al., 2011), and Berger-Parker indices (Caruso et al., 2007), and tested for significant differences between diets with a t-test. I also calculated the Bray-Curtis (Bray & Curtis, 1957) and Jaccard distances (Jaccard, 1912), as well as a PERMANOVA for both measures. The code for these steps in found in the scripts folder in the file Diversity_differential_abundance.R.
 
-I calculated differential abundance of microbial species between samples with ANCOM-BC v2.12.1 (Lin & Peddada, 2020). 
+I calculated differential abundance of microbial species between samples with ANCOM-BC v2.12.1 (Lin & Peddada, 2020), applying the Benjamini-Hochberg correction for multiple testing. 
 
 
 ## Results
